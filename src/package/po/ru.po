@@ -131,16 +131,16 @@ msgstr "Введите текст надписи…"
 #: ../contents/ui/ConfigGeneral.qml
 msgctxt "@action:button"
 msgid "Reset menu label"
-msgstr "Сбросить текст надписи"
+msgstr "Сбросить текст метки"
 
 #: ../contents/ui/ConfigGeneral.qml
 msgctxt "@info"
 msgid "A text label cannot be set when the Panel is vertical."
-msgstr "Надпись не может быть использована при вертикальной ориентации панели."
+msgstr "Метка не может быть использована при вертикальной ориентации панели."
 
 #: ../contents/ui/ConfigGeneral.qml
 msgid "Front page:"
-msgstr ""
+msgstr "Главная страница"
 
 #: ../contents/ui/ConfigGeneral.qml ../contents/ui/FullRepresentation.qml
 msgid "Favorites"
@@ -148,52 +148,52 @@ msgstr "Избранное"
 
 #: ../contents/ui/ConfigGeneral.qml
 msgid "Recent apps:"
-msgstr ""
+msgstr "Недавние приложения"
 
 #: ../contents/ui/ConfigGeneral.qml
 msgid "rows"
-msgstr ""
+msgstr "Строки"
 
 #: ../contents/ui/ConfigGeneral.qml
 msgid "Frequent files:"
-msgstr ""
+msgstr "Частоиспользуемые файлы"
 
 #: ../contents/ui/ConfigGeneral.qml
 msgid "Recent files:"
-msgstr ""
+msgstr "Недавние файлы"
 
 #: ../contents/ui/ConfigGeneral.qml
 msgid "Icon size:"
-msgstr ""
+msgstr "Размер иконок"
 
 #: ../contents/ui/ConfigGeneral.qml
 msgid "Small"
-msgstr ""
+msgstr "Крошечный"
 
 #: ../contents/ui/ConfigGeneral.qml
 msgid "Small-Medium"
-msgstr ""
+msgstr "Маленький"
 
 #: ../contents/ui/ConfigGeneral.qml
 msgid "Medium"
-msgstr ""
+msgstr "Средний"
 
 #: ../contents/ui/ConfigGeneral.qml
 msgid "Large"
-msgstr ""
+msgstr "Большой"
 
 #: ../contents/ui/ConfigGeneral.qml
 msgid "Huge"
-msgstr ""
+msgstr "Огромный"
 
 #: ../contents/ui/ConfigGeneral.qml
 msgid "Enormous"
-msgstr ""
+msgstr "Гинантский"
 
 #: ../contents/ui/ConfigGeneral.qml
 msgctxt "Application List options"
 msgid "App list:"
-msgstr ""
+msgstr "Все:"
 
 #: ../contents/ui/ConfigGeneral.qml
 msgctxt "@option:check"
@@ -259,12 +259,12 @@ msgstr "Списком"
 
 #: ../contents/ui/ConfigGeneral.qml
 msgid "Show all applications:"
-msgstr ""
+msgstr "Показать все приложения"
 
 #: ../contents/ui/ConfigGeneral.qml
 msgctxt "Part of a sentence: 'Show all applications in a grid'"
 msgid "In a grid"
-msgstr ""
+msgstr "Сеткой"
 
 #: ../contents/ui/ConfigGeneral.qml
 msgctxt "Part of a sentence: 'Show other applications in a list'"
@@ -273,7 +273,7 @@ msgstr "Списком"
 
 #: ../contents/ui/ConfigGeneral.qml
 msgid "Show buttons for:"
-msgstr "Показывать кнопки:"
+msgstr "Показывать кнопки для:"
 
 #: ../contents/ui/ConfigGeneral.qml ../contents/ui/LeaveButtons.qml
 msgid "Power"
@@ -290,7 +290,7 @@ msgstr "Управление питанием и сеансами"
 
 #: ../contents/ui/ConfigGeneral.qml
 msgid "None"
-msgstr ""
+msgstr "Не показывать"
 
 #: ../contents/ui/ConfigGeneral.qml
 msgid "Show action button captions"
@@ -302,23 +302,23 @@ msgstr "Сетка, строк: %1, столбцов: %2"
 
 #: ../contents/ui/FullRepresentation.qml
 msgid "All Apps >"
-msgstr ""
+msgstr "Все >"
 
 #: ../contents/ui/FullRepresentation.qml
 msgid "Recent Apps"
-msgstr ""
+msgstr "Недавние Приложения"
 
 #: ../contents/ui/FullRepresentation.qml
 msgid "More >"
-msgstr ""
+msgstr "Больше >"
 
 #: ../contents/ui/FullRepresentation.qml
 msgid "Frequently Used Files"
-msgstr ""
+msgstr "Частоимпользуемые Файлы"
 
 #: ../contents/ui/FullRepresentation.qml
 msgid "Recently Used Files"
-msgstr ""
+msgstr "Недавные Файлы"
 
 #: ../contents/ui/FullRepresentation.qml
 msgctxt "@info:status"
@@ -331,7 +331,7 @@ msgstr "Открыть настройки пользователя"
 
 #: ../contents/ui/Header.qml
 msgid "< Back"
-msgstr ""
+msgstr "< Назад"
 
 #: ../contents/ui/Header.qml
 msgid "Keep Open"
@@ -341,7 +341,7 @@ msgstr "Не закрывать"
 #: ../contents/ui/KickoffListDelegate.qml
 msgctxt "Newly installed app, badge, keep short"
 msgid "New!"
-msgstr "Новое"
+msgstr "Новое!"
 
 #: ../contents/ui/KickoffGridDelegate.qml
 #: ../contents/ui/KickoffListDelegate.qml
