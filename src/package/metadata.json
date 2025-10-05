@@ -170,6 +170,7 @@
         "Id": "io.github.jinliu.kickon",
         "License": "GPL-2.0+",
         "Name": "Application Launcher (alt)",
+        "Name[ru]": "Запуск Приложений",
         "Name[ko]": "앱 실행기 (다른 형태)",
         "Name[zh_CN]": "应用程序启动器（改）",
     	"Website": "https://github.com/jinliu/plasma-applet-kickon"
